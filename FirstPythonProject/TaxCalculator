@@ -1,0 +1,6 @@
+#Simple Tax Calculator using variables.
+i= 30000
+NoOfMonths=12
+TaxPercent = 0.1
+CalculatedTaxAmount= i*NoOfMonths*TaxPercent
+print "The tax calculated for 12 months is ",CalculatedTaxAmount
