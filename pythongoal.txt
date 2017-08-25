@@ -1,0 +1,223 @@
+Basic syntax
+
+Environment setup
+The Python programming language
+What is the program?
+What is debugging?
+Variables, expressions, and statements
+
+Values and types
+Variables
+Variable names and keywords
+Operators and operands
+Expressions and statements
+Interactive mode and script mode
+Order of operations
+String operations
+Comments
+Debugging
+Functions
+
+Function calls
+Type conversion functions
+Math functions
+Composition
+Adding new functions
+Definitions and uses
+Flow of execution
+Parameters and arguments
+Variables and parameters are local
+Stack diagrams
+Fruitful functions and void functions
+Why functions?
+Importing with from
+Debugging
+Conditionals and recursion
+
+Modulus operator
+Boolean expressions
+Logical operators
+Conditional execution
+Alternative execution
+Chained conditionals
+Nested conditionals
+Recursion
+Stack diagrams for recursive functions
+Infinite recursion
+Keyboard input
+Debugging
+Fruitful functions
+
+Return values
+Incremental development
+Composition
+Boolean functions
+More recursion
+Leap of faith
+One more example
+Checking types
+Debugging
+Iteration
+
+Multiple assignments
+Updating variables
+The while statement
+Break
+Square roots
+Algorithms
+Debugging
+Strings
+
+A string is a sequence
+Len
+Traversal with a for loop
+String slices
+Strings are immutable
+Searching
+Looping and counting
+String methods
+The in operator
+String comparison
+Debugging
+Lists
+
+A list is a sequence
+Lists are mutable
+Traversing a list
+List operations
+List slices
+List methods
+Map, filter and reduce
+Deleting elements
+Lists and strings
+Objects and values
+Aliasing
+List arguments
+Debugging
+Dictionaries
+
+Dictionary as a set of counters
+Looping and dictionaries
+Reverse lookup
+Dictionaries and lists
+Memos
+Global variables
+Long integers
+Debugging
+Tuples
+
+Tuples are immutable
+Tuple assignment
+Tuples as return values
+Variable-length argument tuples
+Lists and tuples
+Dictionaries and tuples
+Comparing tuples
+Sequences of sequences
+Debugging
+Files     
+
+Persistence
+Reading and writing
+Format operator
+Filenames and paths
+Catching exceptions
+Databases
+Pickling
+Pipes
+Writing modules
+Debugging
+Classes and objects
+
+User-defined types
+Attributes
+Rectangles
+Instances as return values
+Objects are mutable
+Copying
+Debugging
+Classes and methods
+
+Object-oriented features
+Printing objects
+Another example
+A more complicated example
+The init method
+The ннн__str__ method
+Operator overloading
+Type-based dispatch
+Polymorphism
+Debugging
+Inheritance    
+
+Card objects
+Class attributes
+Comparing cards
+Decks
+Printing the deck
+Add, remove, shuffle and sort
+Inheritance
+Class diagrams
+Debugging
+Data encapsulation
+Advanced Strings, Date & Time
+Python os, re, sys
+GUI Basics: Tkinter, Tcl/Tk
+Comprehensions: List, Dictionary
+CSV, JSON, XML, SQLite with Python
+Data Science/Visualization: pandas, matplotlib
+Jupyter NoteBook
+Courses Outline- Django Training
+
+Brief Introduction to Python and Django basics
+
+Testing Setup
+Creating Django Project
+Creating a Django Application
+Creating a View
+Mapping URLs
+Basic Workflows
+Templates and Static Media
+
+Using Templates
+Configuring the Templates Directory
+Dynamic Paths
+Serving Static Media
+Configuring the Static Media Directory
+Static Media Files and Templates
+The Static Media Server
+Models and Databases
+
+Telling Django About Database
+Creating Models
+Creating and Synchronizing the Database
+Generated SQL
+Django Models and the Django Shell
+Configuring the Admin Interface
+Creating a Population Script
+Models, Templates, and Views
+
+Basic Workflow: Data Driven Pages
+Importing Required Models
+Modifying the Index View
+Modifying the Index Template
+Creating a Details Page
+URL Design and Mapping
+Category Page Workflow
+Category View Category Template
+Parameterized URL Mapping
+Modifying the Index View and Template
+Working with Forms
+User Authentication
+Setting up Authentication
+The User Model
+Additional User Attributes
+Creating a User Registration View and Template
+AJAX, Django and Jquery
+Project Work
+
+Project Work on Advanced Python Concepts or Django
+
+Project Evaluation and Feedback.
+
+Deploying Project
